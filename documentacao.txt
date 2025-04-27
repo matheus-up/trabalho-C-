@@ -1,7 +1,7 @@
 Documentação Detalhada dos Exercícios
 
 ========================================
-Exercício 1: Cadastro Simples de Produtos
+Exercício 6: Cadastro Simples de Produtos
 ========================================
 
 1. Passo a passo lógico para a resolução:
@@ -33,7 +33,7 @@ Exercício 1: Cadastro Simples de Produtos
 
 
 ========================================
-Exercício 2: Validador de Senhas Fortes
+Exercício 1: Validador de Senhas Fortes
 ========================================
 
 1. Passo a passo lógico para a resolução:

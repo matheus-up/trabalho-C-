@@ -1,0 +1,14 @@
+C:\_ws\C#\ExercicioGit\Ex03\bin\Debug\net9.0\Ex03.exe
+C:\_ws\C#\ExercicioGit\Ex03\bin\Debug\net9.0\Ex03.deps.json
+C:\_ws\C#\ExercicioGit\Ex03\bin\Debug\net9.0\Ex03.runtimeconfig.json
+C:\_ws\C#\ExercicioGit\Ex03\bin\Debug\net9.0\Ex03.dll
+C:\_ws\C#\ExercicioGit\Ex03\bin\Debug\net9.0\Ex03.pdb
+C:\_ws\C#\ExercicioGit\Ex03\obj\Debug\net9.0\Ex03.GeneratedMSBuildEditorConfig.editorconfig
+C:\_ws\C#\ExercicioGit\Ex03\obj\Debug\net9.0\Ex03.AssemblyInfoInputs.cache
+C:\_ws\C#\ExercicioGit\Ex03\obj\Debug\net9.0\Ex03.AssemblyInfo.cs
+C:\_ws\C#\ExercicioGit\Ex03\obj\Debug\net9.0\Ex03.csproj.CoreCompileInputs.cache
+C:\_ws\C#\ExercicioGit\Ex03\obj\Debug\net9.0\Ex03.dll
+C:\_ws\C#\ExercicioGit\Ex03\obj\Debug\net9.0\refint\Ex03.dll
+C:\_ws\C#\ExercicioGit\Ex03\obj\Debug\net9.0\Ex03.pdb
+C:\_ws\C#\ExercicioGit\Ex03\obj\Debug\net9.0\Ex03.genruntimeconfig.cache
+C:\_ws\C#\ExercicioGit\Ex03\obj\Debug\net9.0\ref\Ex03.dll

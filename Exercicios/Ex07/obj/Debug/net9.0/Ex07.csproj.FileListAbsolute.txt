@@ -1,0 +1,14 @@
+C:\_ws\C#\ExercicioGit\Ex07\obj\Debug\net9.0\Ex07.GeneratedMSBuildEditorConfig.editorconfig
+C:\_ws\C#\ExercicioGit\Ex07\obj\Debug\net9.0\Ex07.AssemblyInfoInputs.cache
+C:\_ws\C#\ExercicioGit\Ex07\obj\Debug\net9.0\Ex07.AssemblyInfo.cs
+C:\_ws\C#\ExercicioGit\Ex07\obj\Debug\net9.0\Ex07.csproj.CoreCompileInputs.cache
+C:\_ws\C#\ExercicioGit\Ex07\bin\Debug\net9.0\Ex07.exe
+C:\_ws\C#\ExercicioGit\Ex07\bin\Debug\net9.0\Ex07.deps.json
+C:\_ws\C#\ExercicioGit\Ex07\bin\Debug\net9.0\Ex07.runtimeconfig.json
+C:\_ws\C#\ExercicioGit\Ex07\bin\Debug\net9.0\Ex07.dll
+C:\_ws\C#\ExercicioGit\Ex07\bin\Debug\net9.0\Ex07.pdb
+C:\_ws\C#\ExercicioGit\Ex07\obj\Debug\net9.0\Ex07.dll
+C:\_ws\C#\ExercicioGit\Ex07\obj\Debug\net9.0\refint\Ex07.dll
+C:\_ws\C#\ExercicioGit\Ex07\obj\Debug\net9.0\Ex07.pdb
+C:\_ws\C#\ExercicioGit\Ex07\obj\Debug\net9.0\Ex07.genruntimeconfig.cache
+C:\_ws\C#\ExercicioGit\Ex07\obj\Debug\net9.0\ref\Ex07.dll
