@@ -1,0 +1,64 @@
+Documentação Detalhada dos Exercícios
+
+========================================
+Exercício 1: Cadastro Simples de Produtos
+========================================
+
+1. Passo a passo lógico para a resolução:
+- Criar uma classe Produto que tenha as propriedades Nome, Preço e Quantidade.
+- Dentro da classe Produto, criar um método ValorTotalEmEstoque() que multiplica Preço * Quantidade para saber o valor total em estoque.
+- Criar também o método ToString() para apresentar as informações do produto de forma formatada.
+- No método Main:
+  - Perguntar ao usuário quantos produtos deseja cadastrar.
+  - Usar um laço for para repetir o processo de cadastro de produtos.
+  - Dentro do laço, pedir o nome, preço e quantidade do produto.
+  - Instanciar cada produto e adicionar em uma lista (List<Produto>).
+  - Após o cadastro, percorrer a lista com foreach e imprimir os produtos cadastrados.
+
+2. Estruturas e comandos utilizados:
+- Classe e métodos (Produto, ValorTotalEmEstoque, ToString).
+- Lista (List<Produto>) para armazenar os produtos cadastrados.
+- Laço de repetição for para repetir o processo de cadastro.
+- Laço foreach para exibir os produtos cadastrados.
+- Entrada e saída de dados via Console.ReadLine() e Console.WriteLine().
+- Conversão de tipos com int.Parse e double.Parse.
+- Uso do CultureInfo.InvariantCulture para lidar com números decimais corretamente.
+
+3. Justificativas claras:
+- Criar uma classe Produto deixa o código organizado, separando dados e comportamentos relacionados ao produto.
+- Usar uma Lista facilita o armazenamento e a manipulação de vários produtos.
+- A repetição com for é adequada para cadastrar uma quantidade determinada de produtos.
+- ToString() facilita a exibição formatada sem precisar reescrever a formatação a cada vez.
+- CultureInfo.InvariantCulture é importante para garantir que o formato de número decimal seja aceito corretamente, independentemente da configuração do sistema do usuário.
+
+
+========================================
+Exercício 2: Validador de Senhas Fortes
+========================================
+
+1. Passo a passo lógico para a resolução:
+- Solicitar que o usuário digite uma senha.
+- Criar uma função SenhaEhForte(string senha) para verificar os seguintes critérios:
+  - Se a senha tem no mínimo 8 caracteres.
+  - Se contém pelo menos uma letra maiúscula.
+  - Se contém pelo menos um número.
+  - Se contém pelo menos um caractere especial (!, @, #, etc).
+- Utilizar expressões regulares (Regex) para fazer essas verificações.
+- Caso todas as condições sejam atendidas, a senha é considerada forte.
+- Informar ao usuário se a senha é válida ou inválida e listar os requisitos.
+
+2. Estruturas e comandos utilizados:
+- Função (método) SenhaEhForte(string senha) para encapsular as regras de verificação.
+- Expressões regulares usando Regex.IsMatch():
+  - "[A-Z]" → verifica presença de letra maiúscula.
+  - "[0-9]" → verifica presença de número.
+  - "[!@#$%&*(),.?:{}|<>]" → verifica presença de caractere especial.
+- Condicionais if e else para definir se a senha é válida.
+- Entrada e saída de dados via Console.ReadLine() e Console.WriteLine().
+- Estrutura de decisão para explicar ao usuário porque a senha foi invalidada.
+
+3. Justificativas claras:
+- Usar uma função separada deixa o código organizado e facilita manutenções futuras.
+- Expressões regulares (Regex) são ideais para validações complexas em textos, deixando o código mais compacto e eficiente.
+- Separar as validações específicas torna o programa mais fácil de entender e adaptar caso novos critérios de senha sejam exigidos.
+- Dar mensagens explicativas ao usuário aumenta a usabilidade do programa e ajuda a corrigir erros de maneira rápida.
