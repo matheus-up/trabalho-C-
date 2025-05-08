@@ -3,7 +3,7 @@
 **Integrantes:**
 1. [Caio Somacal]
 2. [Luan]
-3. [Matheus]
+3. [Matheus de Araujo Amaral]
 
 ## Exercícios Resolvidos
 1. Validador de Senhas Fortes
